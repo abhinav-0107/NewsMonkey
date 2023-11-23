@@ -1,0 +1,102 @@
+{
+  "status": "ok",
+  "totalResults": 9,
+  "articles": [
+    {
+      "source": { "id": "news-com-au", "name": "News.com.au" },
+      "author": null,
+      "title": "‘Don’t feel safe’: Crime wave in Aussie city",
+      "description": "<p>A convenience store worker who was forced to run for her life while being robbed at knifepoint is one of many locals afraid of rising youth crime in the Queensland city of Townsville.</p>",
+      "url": "https://www.news.com.au/national/crime/townsvilles-struggle-with-rising-youth-crime-divides-community/news-story/bc40c8ce1792149fb856b82e67d47a21",
+      "urlToImage": "https://content.api.news/v3/images/bin/b0a1284cd90c3eaf0cdd36cf88edaede",
+      "publishedAt": "2023-04-09T11:19:00Z",
+      "content": "A convenience store worker who was forced to run for her life while being robbed at knifepoint is one of many locals afraid of rising youth crime in the Queensland city of Townsville.\r\nThe woman was … [+2368 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Katherine Tangalakis-Lippert",
+      "title": "San Francisco called 'lawless' after death of Bob Lee, but crime is down",
+      "description": "With a population of fewer than 1 million people, the California city has roughly a quarter of the number of homicides as similar-sized cities in the Midwest.",
+      "url": "http://www.businessinsider.com/san-francisco-called-lawless-bob-lee-stabbing-crime-is-down-2023-4",
+      "urlToImage": "https://i.insider.com/639a3d6527c0a700193e2eba?width=1200&format=jpeg",
+      "publishedAt": "2023-04-09T06:22:39Z",
+      "content": "Following the tragic stabbing death of Cash App creator Bob Lee on Tuesday, critics of the city's progressive policies were quick to label San Francisco a \"lawless\" place to live, with \"horrific\" cri… [+3657 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider-uk",
+        "name": "Business Insider (UK)"
+      },
+      "author": "Katherine Tangalakis-Lippert",
+      "title": "San Francisco called 'lawless' after death of Bob Lee, but crime is down",
+      "description": "With a population of fewer than 1 million people, the California city has roughly a quarter of the number of homicides as similar-sized cities in the Midwest.",
+      "url": "http://uk.businessinsider.com/san-francisco-called-lawless-bob-lee-stabbing-crime-is-down-2023-4",
+      "urlToImage": "https://i.insider.com/639a3d6527c0a700193e2eba?width=1200&format=jpeg",
+      "publishedAt": "2023-04-09T06:22:39Z",
+      "content": "Following the tragic stabbing death of Cash App creator Bob Lee on Tuesday, critics of the city's progressive policies were quick to label San Francisco a \"lawless\" place to live, with \"horrific\" cri… [+3657 chars]"
+    },
+    {
+      "source": {
+        "id": "australian-financial-review",
+        "name": "Australian Financial Review"
+      },
+      "author": "Max Hastings",
+      "title": "Ukraine’s war: It’s too late to take Crimea from Putin",
+      "description": "Retaking Crimea from Russia is as unlikely as freeing post-WWII Eastern Europe from Russian domination.",
+      "url": "http://www.afr.com/world/europe/it-s-too-late-to-take-crimea-from-putin-20230409-p5cz4s",
+      "urlToImage": "https://static.ffx.io/images/$zoom_0.3188%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_210%2C$y_162/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/d78ecd8c9501af13a1e0064442be8d8f0e6ae1e7",
+      "publishedAt": "2023-04-09T04:57:17Z",
+      "content": "By October 5, 1939, the campaign was over. The Germans occupied Poland, which became the only nation in their empire where, in the ensuing five years, there was virtually no collaboration between the… [+8425 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Ben Ferencz: Last surviving Nuremberg prosecutor dies, aged 103",
+      "description": "Ben Ferencz was just 27 when he convicted 22 Nazi officials for war crimes and crimes against humanity.",
+      "url": "http://www.bbc.co.uk/news/world-65223756",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EF93/production/_129313316_gettyimages-994218536.jpg",
+      "publishedAt": "2023-04-09T00:22:16.5088421Z",
+      "content": "The last surviving prosecutor from the post-World War Two Nuremberg trials has died aged 103.\r\nBen Ferencz was just 27 when he secured the convictions of 22 Nazi officers for war crimes and crimes ag… [+2866 chars]"
+    },
+    {
+      "source": { "id": "la-repubblica", "name": "La Repubblica" },
+      "author": "La Repubblica",
+      "title": "Guerra Ucraina - Russia, le news di oggi: Medvedev: \"Nessuno ha bisogno dell'Ucraina. Sparirà\"",
+      "description": "Mosca: abbattuto missile ucraino nei cieli della Crimea. Gli Stati Uniti puntano il dito contro Mosca per la fuga di documenti top secret",
+      "url": "https://www.repubblica.it/esteri/2023/04/09/diretta/guerra_ucraina_russia_news_oggi-395496561/",
+      "urlToImage": "https://www.repstatic.it/content/nazionale/img/2023/04/09/010717527-7601f982-f81d-4d74-882d-6ef05f374ce6.jpg",
+      "publishedAt": "2023-04-08T23:03:27Z",
+      "content": "Il Dipartimento di Giustizia degli Stati Uniti ha aperto un'indagine per cercare di identificare la fonte delle fughe di documenti riservati legati in particolare all'invasione russa dell'Ucraina, pu… [+484 chars]"
+    },
+    {
+      "source": { "id": "la-repubblica", "name": "La Repubblica" },
+      "author": "La Repubblica",
+      "title": "Madonna di Trevignano, le lacrime vere dei pentiti: \"Gisella Cardia è il demonio, le ho dato 123 mila euro. M…",
+      "description": "Parla Luigi Avella, a lungo vicino alla santona e al marito della veggente: \"Mangiavamo con loro, viaggiavamo, pregavamo. Per questo mi sono sentito in do…",
+      "url": "https://roma.repubblica.it/cronaca/2023/04/09/news/madonna_lacrime_trevignano_intervista_pentiti_roma_truffa-395473431/",
+      "urlToImage": "https://www.repstatic.it/content/localirep/img/rep-roma/2023/04/08/202546851-306778b4-4823-4b8e-ba5e-695db0d59776.jpg",
+      "publishedAt": "2023-04-08T23:00:00Z",
+      "content": "\"Io ho dato 123 mila euro per la Madonna di Trevignano, 30 mila al marito della veggente e il resto alla Onlus. L'ho fatto di mia spontanea volontà, credevo nelle apparizioni e nei messaggi della Mad… [+143 chars]"
+    },
+    {
+      "source": { "id": "time", "name": "Time" },
+      "author": "Simon Shuster/Kyiv",
+      "title": "Inside Ukraine's Push to Try Putin for War Crimes",
+      "description": "As the war drags on and evidence of atrocities mount, Ukraine seeks international justice.",
+      "url": "http://time.com/6266991/ukraine-push-putin-war-crimes/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2023/03/war-crimes-tribunal-putin-ukraine-05.jpg?quality=85&w=1200&h=628&crop=1",
+      "publishedAt": "2023-03-30T11:00:46Z",
+      "content": "In the office of Andriy Smyrnov, the deputy head of Ukraine’s presidential administration, the wanted posters spread across the desk serve as a kind of mission statement. They show the faces of five … [+10212 chars]"
+    },
+    {
+      "source": { "id": "the-jerusalem-post", "name": "The Jerusalem Post" },
+      "author": null,
+      "title": "Congresswoman Nita Lowey: I am proud to stand with Israel",
+      "description": "Gantz: Security of Israel is above politics; PA: This is a crime.",
+      "url": "https://www.jpost.com/Arab-Israeli-Conflict/Gantz-Security-of-Israel-is-above-politics-Palestinians-This-is-a-crime-607595",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448812",
+      "publishedAt": "2019-11-13T04:41:00Z",
+      "content": "US Ambassador David M. Friedman said the US stands “with our friend and ally Israel at this critical moment” on social media on Tuesday after roughly 170 rockets were fired on Israel from the Gaza St… [+6160 chars]"
+    }
+  ]
+}
